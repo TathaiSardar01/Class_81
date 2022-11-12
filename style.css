@@ -1,0 +1,11 @@
+body
+{
+	background: #fd0000;
+}
+
+#player1_name_input {
+	width: 500px;
+}
+#player2_name_input {
+	width: 500px;
+}
